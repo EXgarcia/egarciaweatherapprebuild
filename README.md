@@ -1,3 +1,7 @@
+//Fernando Aguilar: upon button click the cards the weather for the day and the five day weathercast. i can see that css and styling was under development, so good job on getting started on that. Would have like to see a search bar so i could look up diffetent cities. overall good attemp on the weather app. i cant tell you learned more from the last time.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
