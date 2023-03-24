@@ -1,0 +1,53 @@
+.bgImage{
+    background-image: url(./assets/space.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 150vh;
+
+}
+
+.weatherTitle{
+    -webkit-text-fill-color: whitesmoke;
+    padding-bottom: 3%;
+
+}
+
+.firstCard{
+    padding-bottom: 3%;
+    
+}
+
+.fiveCards{
+    margin-left: 2%;
+   
+}
+
+.lName{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+    
+}
+
+.tName{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card{
+    border-width: 5px;
+    border-color: rgb(177, 177, 177);
+    border-style:ridge;
+    margin-bottom: 10px;
+    
+}
+
+  
+  
+
+ 
+  @media screen and (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+  }
